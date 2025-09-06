@@ -1,3 +1,4 @@
+LICENSE
 README.md
 setup.py
 signal_ICT_DevarshBhatt_92400133073/__init__.py
