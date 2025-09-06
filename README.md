@@ -16,7 +16,7 @@ It was developed as part of the Python Long Hour Coding.
 ## Installation
 
 ### From TestPyPI (Remote Installation)
-To install the package from the TestPyPI repository after a successful upload, use the following command:
+To install the package use the following command:
 
 ```bash
 pip install -i https://test.pypi.org/simple/ signal-ICT-DevarshBhatt-92400133073==2.0.0
