@@ -15,7 +15,7 @@ It was developed as part of the Python Long Hour Coding.
 
 ## Installation
 
-### From TestPyPI (Remote Installation)
+### Installation
 To install the package use the following command:
 
 ```bash
