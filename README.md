@@ -18,7 +18,7 @@ It was developed as part of the Python Long Hour Coding.
 To install the package use the following command:
 
 ```bash
-pip install -i https://test.pypi.org/simple/ signal-ICT-DevarshBhatt-92400133073==2.0.0
+pip install signal-ICT-DevarshBhatt-92400133073==2.0.0
 ```
 ---
 
