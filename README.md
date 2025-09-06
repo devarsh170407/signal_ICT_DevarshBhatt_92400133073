@@ -20,3 +20,19 @@ To install the package from the TestPyPI repository after a successful upload, u
 
 ```bash
 pip install -i https://test.pypi.org/simple/ signal-ICT-DevarshBhatt-92400133073==2.0.0
+```
+
+## Usage
+
+After installation, you can import and use the package in your Python scripts. The main.py script serves as an example of how to use the package's functionalities.
+
+To run the demonstration script, ensure you have the numpy and matplotlib libraries installed, and then execute:
+
+```bash
+python main.py
+```
+
+This will run all the signal generation and operation tasks and display the resulting plots.
+
+Author
+Name: Devarsh Bhatt
