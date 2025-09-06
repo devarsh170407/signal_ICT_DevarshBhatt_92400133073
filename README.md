@@ -1,7 +1,7 @@
 # Signal Processing Package – Devarsh Bhatt (92400133073)
 
-This Python package provides basic signal processing operations and generation of common signals (unit step, ramp, trigonometric signals, etc.).  
-It was developed as part of the ICT Lab project.
+This Python package provides basic signal processing operations and generation of common signals (unit step, unit_impulse, ramp, trigonometric signals, Signal Operation etc.).  
+It was developed as part of the Python Long Hour Coding.
 
 ---
 
@@ -21,6 +21,7 @@ To install the package from the TestPyPI repository after a successful upload, u
 ```bash
 pip install -i https://test.pypi.org/simple/ signal-ICT-DevarshBhatt-92400133073==2.0.0
 ```
+---
 
 ## Usage
 
