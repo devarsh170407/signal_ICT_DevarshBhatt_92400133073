@@ -4,9 +4,9 @@ import matplotlib.pyplot as plt
 def unit_step(n):
     signal = np.array([1 if i >=0 else 0 for i  in n])
     plt.stem(n, signal, basefmt=" ")
-    plt.title("==UNIT STEP==")
+    plt.title("--UNIT STEP--")
     plt.xlabel("n")
-    plt.ylabel("--AMPLITUDE==")
+    plt.ylabel("--AMPLITUDE--")
     plt.grid()
     plt.show()
     return signal

@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
-from signal_ICT_DevarshBhatt_92400133073 import unitary_signal as us
-from signal_ICT_DevarshBhatt_92400133073 import trigonometric_signal as ts
+from signal_ICT_DevarshBhatt_92400133073 import unitary_signals as us
+from signal_ICT_DevarshBhatt_92400133073 import trigonometric_signals as ts
 from signal_ICT_DevarshBhatt_92400133073 import operations as op
 
 n = np.arange(-10,10,1)
