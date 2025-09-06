@@ -35,5 +35,8 @@ python main.py
 
 This will run all the signal generation and operation tasks and display the resulting plots.
 
-Author
+---
+
+# Author
+
 Name: Devarsh Bhatt
