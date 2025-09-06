@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 def sine_wave(A,f,phi,t):
     signal = A*np.sin(2*np.pi*f*t+phi)
     plt.plot(t,signal)
-    plt.title("*SINE WAVE*")
+    plt.title("SINE WAVE")
     plt.xlabel(" -TIME- ")
     plt.ylabel("AMPLITUDE")
     plt.grid()
